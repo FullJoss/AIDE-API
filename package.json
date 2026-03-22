@@ -1,0 +1,31 @@
+{
+  "name": "projet-aide",
+  "version": "1.0.0",
+  "description": "serveur de aide",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/kokoro.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^3.8.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "mqtt": "^5.15.0",
+    "multer": "^2.1.1",
+    "ollama": "^0.6.3",
+    "onnxruntime-node": "^1.24.3",
+    "say": "^0.16.0",
+    "sherpa-onnx": "^1.12.31",
+    "speaker": "^0.5.5",
+    "sqlite3": "^6.0.1",
+    "wav": "^1.0.2",
+    "wavefile": "^11.0.0",
+    "ws": "^8.19.0"
+  }
+}

@@ -24,9 +24,9 @@ L'API agit comme un chef d'orchestre entre trois piliers :
 
 ## Installation
   1. **Prérequis**  
-     Node.js (version 18.x ou + recommandée)  
-     NPM (installé avec Node)  
-     Ollama avec le modele Gemma3:1b
+     ▬ Node.js (version 18.x ou + recommandée)  
+     ▬ NPM (installé avec Node)  
+     ▬ Ollama avec le modele Gemma3:1b
   
   3. **Récupération du projet**
   Clonez le dépôt sur votre machine :

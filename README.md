@@ -30,7 +30,7 @@ L'API agit comme un chef d'orchestre entre trois piliers :
   3. **Récupération du projet**
   Clonez le dépôt sur votre machine :
      ```bash
-     git clone git@github.com:ton-username/Projet-AIDE.git
+     git clone https://github.com/FullJoss/AIDE-API.git
      cd Projet-AIDE
       ```
   
